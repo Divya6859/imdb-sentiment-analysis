@@ -24,7 +24,8 @@ This project classifies movie reviews as **positive or negative** using Natural 
 https://huggingface.co/spaces/divyashekar/imdb-sentiment-analysis  
 
 ## 📂 Dataset
-- IMDb reviews dataset (Kaggle)  
+- Scraped IMDb reviews dataset (CSV format) for initial data collection  
+- Full IMDb dataset sourced from Kaggle for model training (link provided in data folder)  
 
 ## ▶️ How to Run
 1. Clone the repository  
