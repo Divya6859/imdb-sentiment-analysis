@@ -20,12 +20,14 @@ This project classifies movie reviews as **positive or negative** using Natural 
 ## 📈 Model Performance
 - Evaluated using accuracy, F1-score, and confusion matrix  
 
-## 🔗 Live Demo
-https://huggingface.co/spaces/divyashekar/imdb-sentiment-analysis  
 
 ## 📂 Dataset
 - Scraped IMDb reviews dataset (CSV format) for initial data collection  
-- Full IMDb dataset sourced from Kaggle for model training (link provided in data folder)  
+- Full IMDb dataset sourced from Kaggle for model training (link provided in data folder)
+
+## 🚀 Deployment
+The model is deployed using Gradio.
+🔗 https://huggingface.co/spaces/divyashekar/imdb-sentiment-analysis
 
 ## ▶️ How to Run
 1. Clone the repository  
